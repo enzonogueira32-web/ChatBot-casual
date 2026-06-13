@@ -1,4 +1,4 @@
-# Chatbot Simples
+# Chat casual
 
 Este é um chatbot simples em Python.
 
